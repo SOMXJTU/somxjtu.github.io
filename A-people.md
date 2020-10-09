@@ -34,6 +34,9 @@ title: "PEOPLE"
 			 <p style="font-family:courier">Name  YZK</p>
 			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
 			 <a href="http://zhikai.pro" style="font-size:15px;font-family:courier"> Personal Website </a>
+			 <br />
+			 <br />
+			 <p style="font-family:courier">   </p>
 	 </div></td>
 	
     <td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
