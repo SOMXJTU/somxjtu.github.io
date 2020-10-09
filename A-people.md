@@ -30,8 +30,8 @@ title: "PEOPLE"
     <td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
 
     <td style="width:18%;" valign="top"  ><div style="background:white; height:auto;">
-			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/ppl01.png" center />
-			 <p style="font-family:courier">Name  </p>
+			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/yzk.jpg" center />
+			 <p style="font-family:courier">Name  YZK</p>
 			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
 	 </div></td>
 	
