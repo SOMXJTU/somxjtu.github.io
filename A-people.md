@@ -30,9 +30,10 @@ title: "PEOPLE"
     <td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
 
     <td style="width:18%;" valign="top"  ><div style="background:white; height:auto;">
-			 <img style="margin: 0 auto;" width="100%"  height="auto"  src="img/yzk.jpg" center />
+			 <img style="margin: 0 auto;border-radius:25px" width="100%"  height="auto"  src="img/yzk.jpg" center />
 			 <p style="font-family:courier">Name  YZK</p>
 			 <p style="font-size:15px;font-family:courier">A brief self-intro.   </p>
+			 <a href="http://zhikai.pro" style="font-size:15px;font-family:courier"> Personal Website </a>
 	 </div></td>
 	
     <td style="width:2%;"><div style="background:white; height:auto;"> </div></td>	
